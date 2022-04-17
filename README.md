@@ -1,4 +1,4 @@
-![MasterHead](https://media-private.canva.com/13dME/MAE-JX13dME/1/s3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220417%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220417T132628Z&X-Amz-Expires=16810&X-Amz-Signature=bfb8b7bb9ca61b359c1b832dc8e01e3a609cdaae4e4af47731d81797d7aadd4e&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2017%20Apr%202022%2018%3A06%3A38%20GMT)
+![MasterHead](https://media-private.canva.com/n99TI/MAE-K1n99TI/1/s2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220417%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220417T125838Z&X-Amz-Expires=39871&X-Amz-Signature=45a44395b74c18fff7c0bc34435dcdd19030d21a840f4afcbdb92df5fb84da20&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2018%20Apr%202022%2000%3A03%3A09%20GMT)
 <h1 align="center">Hi 👋, I'm Mithlesh Sharma</h1>
 <h3 align="center">First Year BTech Student</h3>
 
