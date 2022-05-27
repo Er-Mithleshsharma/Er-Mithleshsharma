@@ -1,6 +1,6 @@
 ![MasterHead](https://media-private.canva.com/Hd8Cw/MAE-K5Hd8Cw/1/s2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220417%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220417T115435Z&X-Amz-Expires=44439&X-Amz-Signature=ea89230aa9bdabbf6a42b464a1dbd4a493d04874a36be4c39a1745a035685eb1&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2018%20Apr%202022%2000%3A15%3A14%20GMT)
 <h1 align="center">Hi 👋, I'm Mithlesh Sharma</h1>
-<h3 align="center">First Year BTech Student</h3>
+<h3 align="center">BTech CSE Student</h3>
 
 - 🌱 I’m currently learning **Data Structures**
 
