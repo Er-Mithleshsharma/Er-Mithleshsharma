@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAE-K7f4Tkw/spkDFtwRk1dsd6BSbHdoLg/edit?utm_content=DAE-K7f4Tkw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![MasterHead](https://www.canva.com/design/DAE-K7f4Tkw/spkDFtwRk1dsd6BSbHdoLg/view?utm_content=DAE-K7f4Tkw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Mithlesh Sharma</h1>
 <h3 align="center">BTech CSE Student</h3>
 
