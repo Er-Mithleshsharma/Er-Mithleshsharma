@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mithlesh Sharma</h1>
 <h3 align="center">BTech CSE Student</h3>
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m consistant coder!!
 
 - 📫 How to reach me **ermithleshsharma01@gmail.com**
 
