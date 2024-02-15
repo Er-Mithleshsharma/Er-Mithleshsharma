@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/Er-Mithleshsharma/Er-Mithleshsharma/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mithlesh Sharma</h1>
-<h3 align="center">BTech CSE Student</h3>
+<h3 align="center">Full Stack Web Developer & ML Enthusiast</h3>
 
 - 🌱 I’m consistant coder!!
 
