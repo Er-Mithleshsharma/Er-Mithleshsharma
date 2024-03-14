@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mithlesh Sharma</h1>
 <h3 align="center">I'm a Full Stack Web Developer & ML Enthusiast</h3>
 
-- 🔭 Food Ordering app in react js **ReactoMeal**
+- 🔭  I’m currently working on projects using **OpenAi API**
 
 - 🌱 I’m currently learning **Reactjs, Nodejs Mongodb Expressjs**
 
